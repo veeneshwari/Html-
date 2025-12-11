@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>introduction of java</title>
+  </head>
+  <body>
+    <p align="center" style="color: black;">
+      <b style="color: brown;">HISTORY OF JAVA</b>
+      <br>
+      <i>It was developed by 
+        <b style="color: green;">SUN MICRO SYSTEM</b> with the name of 
+        <b style="color: pink;">PROJECT GREEN</b> in the year 
+        <b style="color: red;">1991</b> led by 
+        <b style="color: purple;">James Gosling</b>, initially called 
+        <b style="color: orange;">Oak</b>. Indonesian island name is 
+        <b style="color: yellow;">JAVA</b>. When the team members went to Indonesia and drank coffee, they chose the name Java, and its logo is a 
+        <b style="color: black;">COFFEE CUP</b>. It became 
+        <b style="color: indigo;">open source</b> in 
+        <b style="color: red;">2006</b>, acquired by 
+        <b style="color:silver;">Oracle</b> in 
+        <b style="color: red;">2009</b>, and evolved with major releases like 
+        <b style="color: blue;">Java 8 (2014)</b>.
+        and a shift to faster, regular updates, becoming foundational for Android and enterprise apps. 
+        <br>
+        done by <B> Veeneshwari R</B> 
+      </i>
+    </p>
+  </body>
+</html>
